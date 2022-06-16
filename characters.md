@@ -13,6 +13,6 @@ together.
 # Asip, the old neighbor
 
 Asip lives on the same block with Nala and Iila. His front lawn has the best
-grass on the neighborhood so children likes to come and play. He enjoys the
+grass in the neighborhood so children likes to come and play. He enjoys the
 sight of small children because his children are all grown up and away from
 home.
