@@ -9,3 +9,4 @@ hope you will find this entertaining.
 [The Tea Party](stories/the_tea_party.md)<br/>
 [The Dirty Shirt](stories/the_dirty_shirt.md)<br/>
 [The Broken Toy](stories/the_broken_toy.md)<br/>
+[A Helping Hand](stories/a_helping_hand.md)<br/>
